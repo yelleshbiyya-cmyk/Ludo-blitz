@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Blitz",
+  "description": "Real 15x15 Ludo board game featuring Classic 2P/4P Ludo, Local Pass & Play, and Fast 60-second Blitz battles with power-ups and custom themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
